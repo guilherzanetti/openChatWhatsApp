@@ -1,0 +1,71 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(to right, #78bd91, #4d8f81);
+    margin: 0;
+    padding: 0;
+    height: 100vh; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.content {
+    background-color: rgb(240, 240, 240);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.content2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.content-text{
+    display: flex;
+}
+
+.caixa-texto {
+    width: 88%;
+    padding: 10px;
+}
+
+.seletorPais {
+    width: 12%;
+    margin-right: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn-chat{
+    background-color: #0f8131;
+    width: 100%;
+    cursor: pointer;
+    margin-top: 10px;
+    padding: 10px;
+
+    border-radius: 5px;
+    color: rgb(236, 236, 236);
+    border: none;
+    
+}
+
+.btn-chat:hover{
+    background-color: #19a242;
+}
+
+.contato {
+    display: flex;
+    margin-top: 10px;
+    text-align: right;
+}
+
+.a-contato{
+    margin-right: 5px;
+    text-align: right;
+}

@@ -35,6 +35,12 @@ body {
     padding: 10px;
 }
 
+.caixa-message{
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+}
+
 .seletorPais {
     width: 12%;
     margin-right: 5px;

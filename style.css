@@ -69,3 +69,33 @@ body {
     margin-right: 5px;
     text-align: right;
 }
+
+/* ---------- RESPONSIVE ---------- */
+
+@media (max-width: 600px) {
+    body {
+        
+    }
+
+    .content {
+        background-color: rgb(240, 240, 240);
+        padding: 20px;
+        margin-left: 3%;
+        margin-right: 3%;
+        border-radius: 20px;
+    }
+
+    .caixa-texto {
+        width: 80%;
+        padding: 10px;
+    }
+    
+    .seletorPais {
+        width: 20%;
+        margin-right: 5px;
+        text-align: center;
+        cursor: pointer;
+    }
+
+    
+  }

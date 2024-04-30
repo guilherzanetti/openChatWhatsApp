@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, #78bd91, #4d8f81);
+    background-image: linear-gradient(to right, #0a9100, #00ff6a);
     margin: 0;
     padding: 0;
     height: 100vh; 
@@ -19,7 +19,7 @@ body {
     padding: 20px;
     border-radius: 20px;
 
-    box-shadow: -5px 5px 0 #33333368;
+    box-shadow: 0px 0px 44px -9px rgba(0,0,0,0.75);
  
 }
 
